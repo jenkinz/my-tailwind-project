@@ -16,3 +16,8 @@ Following the video tutorials from https://youtube.com/playlist?list=PL7CcGwsqRp
     [ put some content in index.html... ]
     $ npm install -g live server
     $ live-server public   [  run live server from public/ directory  ]
+
+# From existing
+
+    $ npm install
+    $ npm run watch    # runs the watch script (see package.json) to auto-rebuild css
