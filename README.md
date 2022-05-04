@@ -21,3 +21,8 @@ Following the video tutorials from https://youtube.com/playlist?list=PL7CcGwsqRp
 
     $ npm install
     $ npm run watch    # runs the watch script (see package.json) to auto-rebuild css
+
+# Other stuff
+
+- Download [Responsively](https://responsively.app/) for easier front-end
+testing of multiple screen sizes simulateneously
